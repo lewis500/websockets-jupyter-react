@@ -16,6 +16,11 @@ body {
   fill: var(--md-grey-500);
 }
 
+.bar{
+  fill: var(--md-pink-500);
+  stroke: none;
+}
+
 .button {
   display: inline-block;
   padding: 10px;
