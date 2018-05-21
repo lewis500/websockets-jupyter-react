@@ -16,7 +16,7 @@ body {
   fill: var(--md-grey-500);
 }
 
-.bar{
+.bar {
   fill: var(--md-pink-500);
   stroke: none;
 }
