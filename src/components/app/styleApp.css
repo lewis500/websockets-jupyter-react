@@ -8,28 +8,7 @@ body {
   padding: 20px;
 }
 
-.queue {
-  fill: var(--md-pink-500);
-  /* stroke: black; */
-}
-.road {
-  fill: var(--md-grey-500);
-}
-
 .bar {
   fill: var(--md-pink-500);
   stroke: none;
-}
-
-.button {
-  display: inline-block;
-  padding: 10px;
-  cursor: pointer;
-  background-color: var(--md-pink-500);
-}
-.green {
-  fill: var(--md-green-500);
-}
-.red {
-  fill: var(--md-red-500);
 }
